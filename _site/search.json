@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi there!\nI am a first year student of the Master in Economics at SciencesPo, Paris.\nThis website is currently under construction, it’s goal will be to share any past and ongoing projects of mine.\nNB: This website was created thanks to the helpful ressource provided by my classmate Paulo, accessible here.\n\nCurriculum Vitae:\nEmail:"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some past an ongoing projects:"
+  }
+]

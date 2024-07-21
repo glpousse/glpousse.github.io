@@ -1,0 +1,14 @@
+---
+title: "Home"
+---
+
+# Hi there!
+
+I am a first year student of the [Master in Economics](https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/) at SciencesPo, Paris. 
+
+This website is currently under construction, it's goal will be to share any past and ongoing projects of mine. 
+
+- **Curriculum Vitae:** [CV]()
+- **Email:** 
+
+NB: This website was created thanks to the helpful ressource provided by my classmate Paulo, [accessible here](https://www.paulogcd.com/portfolio_tutorial/). 
