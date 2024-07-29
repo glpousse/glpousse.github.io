@@ -8,9 +8,9 @@ Here are our ressources:
 
 - [Link to the 2023 paper](https://doi.org/10.1162/rest_a_01072)
   
-- [PDF of the 2021 paper](https://github.com/glpousse/macro2_presentation/blob/fa4c1f942211bb4ba23c6d68372ab9f2ce6c0a72/Auclert%2C%20Bardo%CC%81czy%2C%20Rognlie%20(2021).pdf)
+- [PDF of the 2021 paper](docs/site_libs/PDFs/Macro2_pres_file/Auclert, Bardóczy, Rognlie (2021).pdf)
   
-- [Presentation Slides](https://github.com/glpousse/macro2_presentation/blob/fa4c1f942211bb4ba23c6d68372ab9f2ce6c0a72/Macro2_pres.pdf)
+- [Presentation Slides](docs/site_libs/PDFs/Macro2_pres_file/Macro2_pres.pdf)
   
 -  [Slides Latec Code]()
 
