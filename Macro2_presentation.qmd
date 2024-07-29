@@ -1,0 +1,21 @@
+---
+title: "Paper Presentation - MPCs, MPEs, and Multipliers: A Trilemma for New Keynesian Models by Adrien Auclert, Bence Bardóczy, and  Matthew Rognlie"
+---
+
+Hello, we are Guillaume, Joanna, and Lorenz. This is the website page for our Macroeconomics 2 presentation on the paper *Adrien Auclert, Bence Bardóczy, Matthew Rognlie; MPCs, MPEs, and Multipliers: A Trilemma for New Keynesian Models. The Review of Economics and Statistics 2023; 105 (3): 700–712.*
+
+Here are our ressources:
+
+- [Link to the 2023 paper](https://doi.org/10.1162/rest_a_01072)
+  
+- [PDF of the 2021 paper](https://github.com/glpousse/macro2_presentation/blob/fa4c1f942211bb4ba23c6d68372ab9f2ce6c0a72/Auclert%2C%20Bardo%CC%81czy%2C%20Rognlie%20(2021).pdf)
+  
+- [Presentation Slides](https://github.com/glpousse/macro2_presentation/blob/fa4c1f942211bb4ba23c6d68372ab9f2ce6c0a72/Macro2_pres.pdf)
+  
+-  [Slides Latec Code]()
+
+This presentation was assessed by teaching assistant Naomi Cohen and received a grade of 18/20. 
+
+
+
+

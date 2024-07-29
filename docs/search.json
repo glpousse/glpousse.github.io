@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Macro2_presentation.html",
+    "href": "Macro2_presentation.html",
+    "title": "Paper Presentation - MPCs, MPEs, and Multipliers: A Trilemma for New Keynesian Models by Adrien Auclert, Bence Bardóczy, and Matthew Rognlie",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Here are some past an ongoing projects:"
+    "text": "Hello, we are Guillaume, Joanna, and Lorenz. This is the website page for our Macroeconomics 2 presentation on the paper Adrien Auclert, Bence Bardóczy, Matthew Rognlie; MPCs, MPEs, and Multipliers: A Trilemma for New Keynesian Models. The Review of Economics and Statistics 2023; 105 (3): 700–712.\nHere are our ressources:\n\nLink to the 2023 paper\nPDF of the 2021 paper\nPresentation Slides\nSlides Latec Code"
   },
   {
     "objectID": "index.html",
@@ -19,5 +12,19 @@
     "title": "Home",
     "section": "",
     "text": "Hi there!\nI am a first year student of the Master in Economics at SciencesPo, Paris.\nThis website is currently under construction, it’s goal will be to share any past and ongoing projects of mine.\n\nCurriculum Vitae: CV\nEmail:\n\nNB: This website was created thanks to the helpful ressource provided by my classmate Paulo, accessible here."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some past an ongoing projects:\nStrategic Interactions in Foreign Aid Games - Pousse, Pereira, Sharma (2024)\nblablabla\nPresentation of the Auclert, Bardóczy, Rognlie (2023) paper on “MPCs, MPEs and Multipliers: A Trilemma for New Keynesian Models”.\nThis is\nUG POL3226 Research Essay - Campaign Contributions and Congressional Voting Behvaviour in the US\nThis is an undergraduate paper I wrote for professor Amy McKay’s class on Money, Lobbying and Policymaking. More specifically, it looks to test whether pharmaceutical PAC campaign contributions had influenced Congressional voting on insulin pricing reforms included in the 2022 Inflation Reduction Act."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
