@@ -6,11 +6,11 @@ Here are some past an ongoing projects:
 
 **[Strategic Interactions in Foreign Aid Games - Pousse, Pereira, Sharma (2024)](Micro2_grouppaper)** 
 
-blablabla
+
 
 **[Presentation of the Auclert, Bardóczy, Rognlie (2023) paper on "MPCs, MPEs and Multipliers: A Trilemma for New Keynesian Models"](Macro2_presentation.qmd).**
 
-This is 
+
 
 **[UG POL3226 Research Essay - Campaign Contributions and Congressional Voting Behaviour in the US](UG_Pol3226.qmd)**
 
