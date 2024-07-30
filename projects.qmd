@@ -4,15 +4,15 @@ title: Projects
 
 Here are some past an ongoing projects:
 
-**[Strategic Interactions in Foreign Aid Games - Pousse, Pereira, Sharma (2024)](Micro2_grouppaper)** 
+**[Strategic Interactions in Foreign Aid Games - Pousse, Pereira, Sharma (2024)](Projects_file/Micro2_grouppaper.qmd)** 
 
 
 
-**[Presentation of the Auclert, Bardóczy, Rognlie (2023) paper on "MPCs, MPEs and Multipliers: A Trilemma for New Keynesian Models"](Macro2_presentation.qmd).**
+**[Presentation of the Auclert, Bardóczy, Rognlie (2023) paper on "MPCs, MPEs and Multipliers: A Trilemma for New Keynesian Models"](Projects_file/Macro2_presentation.qmd).**
 
 
 
-**[UG POL3226 Research Essay - Campaign Contributions and Congressional Voting Behaviour in the US](UG_Pol3226.qmd)**
+**[UG POL3226 Research Essay - Campaign Contributions and Congressional Voting Behaviour in the US](Projects_file/UG_Pol3226.qmd)**
 
 
 
