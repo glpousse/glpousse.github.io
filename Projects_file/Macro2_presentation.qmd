@@ -8,7 +8,7 @@ Here are our ressources:
 
 - [Link to the 2023 paper](https://doi.org/10.1162/rest_a_01072)
   
-- [PDF of the 2021 paper](docs/site_libs/PDFs/Macro2_pres_file/Auclert, Bardóczy, Rognlie (2021).pdf)
+- [PDF of the 2021 paper](PDFs/Macro2_pres_file/Auclert, Bardóczy, Rognlie (2021).pdf)
   
 - [Presentation Slides](docs/site_libs/PDFs/Macro2_pres_file/Macro2_pres.pdf)
   
